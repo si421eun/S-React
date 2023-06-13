@@ -1,5 +1,3 @@
 # S-React
 
-
-
-boung
+Last day of react training
